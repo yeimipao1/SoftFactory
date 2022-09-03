@@ -1,7 +1,7 @@
 package com.SoftFactory.entity;
 
 
-import org.hibernate.annotations.Table;
+/*import org.hibernate.annotations.Table;
 
 @Table
 public enum Enum_RolName {
@@ -10,3 +10,4 @@ public enum Enum_RolName {
     Operario;
 
 }
+*/
