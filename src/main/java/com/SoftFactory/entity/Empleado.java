@@ -9,7 +9,7 @@ public class Empleado {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;}
+    private long id;
 
     @Column(name = "email",unique = true)
     private String email;

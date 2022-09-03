@@ -1,4 +1,4 @@
-/*package com.SoftFactory.controller;
+package com.SoftFactory.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -18,4 +18,3 @@ public class ControladorRest {
     }
 
 }
-*/
