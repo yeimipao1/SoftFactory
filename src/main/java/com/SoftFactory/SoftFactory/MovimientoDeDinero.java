@@ -1,4 +1,4 @@
-package com.SoftFactory.entity;
+package com.SoftFactory.SoftFactory;
 
 import javax.persistence.Entity;
 import java.util.Date;

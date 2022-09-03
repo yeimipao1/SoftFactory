@@ -1,9 +1,10 @@
-package com.SoftFactory.entity;
+package com.SoftFactory.SoftFactory;
 
+
+import com.SoftFactory.SoftFactory.Empleado;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
 @Entity
