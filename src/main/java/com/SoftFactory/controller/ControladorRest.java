@@ -14,7 +14,7 @@ public class ControladorRest {
 
     @GetMapping("/about")
     public String presentar(){
-        return "Me llamo Yeimi";
+        return "Me llamo martin";
     }
 
 }
